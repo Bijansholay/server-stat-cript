@@ -6,4 +6,4 @@
 2. clone to local repo
 3. run the script (bash server-stat.sh) - if you don't have bash intall it
 
-[link to the repo](https://github.com/Bijansholay/server-stat-cript)
+this is a just a practice and this is the link to the task:[](https://roadmap.sh/projects/server-stats)
