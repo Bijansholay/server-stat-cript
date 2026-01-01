@@ -5,3 +5,5 @@
 1. fork the repo
 2. clone to local repo
 3. run the script (bash server-stat.sh) - if you don't have bash intall it
+
+[link to the repo](https://github.com/Bijansholay/server-stat-cript)
